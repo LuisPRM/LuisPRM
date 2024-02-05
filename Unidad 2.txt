@@ -1,0 +1,3 @@
+UNIDAD 2
+
+En esta unidad se vió el tema tanto de conceptos básicos de programación copmo los tipos de datos y operadores. este tema fue muy interesante ya que vimos una pequeña introducción en javascript así como un introducción de la logica al momento de programar, sin duda fue un tema importante ya que todos logramos tener una pequeña muestra acerca de lo qiue es la programación, el cual la actividad de puntos extras no la pude realizar debido a la complejidad el cual no estaba acostumbrado. 

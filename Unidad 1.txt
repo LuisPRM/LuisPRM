@@ -1,0 +1,5 @@
+UNIDAD 1
+
+En esta unidad se vió el tema de números binarios y la importancia de estos en el desarrollo de las tecnologías así como una pequeña introducción a la lógica de programación y el objetivo de los algoritmos, esto con el fin de ver que cada instrucción desarrollada debe ir en base a una lógica de lo contrario se pueden ocasionar lagunas donde un programa o una instrucción no pueda avanzar y quede detenida. 
+
+de los temas vistos el mas interesante fue el de números binarios ya que cada letra que miramos a travez de una maquina se traduce en 0 y 1 el cual se termina decodificando en el mensaje deseado
